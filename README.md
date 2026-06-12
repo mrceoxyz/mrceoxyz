@@ -40,16 +40,11 @@ smart living in Nigeria — one automated home at a time.
 |---|---|---|
 | **HOMEOS** | ESP32, RPi, MQTT, Next.js, PostgreSQL | Smart home system for Nigerian homes — offline-first, solar-aware |
 | **IoT Home Automation System** | ESP32, Raspberry Pi, MQTT, PostgreSQL | Real-time sensor tracking & relay control |
-| **EMG Wearable — Aquatic Rehab** | STM32, IMU, BLE | Low-power EMG sampling with IMU trigger |
-| **RAG-Based Home Safety System** | AI, Image + Text Processing | Intruder detection with multimodal AI |
-| **Bare-Metal ECG Acquisition** | STM32, Analog Front-End | Low-power ECG circuit for DSP pipeline |
-| **GPS Asset Tracker** | ESP32, T-SIM7000G | Low-power LTE-M/NB-IoT asset tracking |
 
 ---
 
 ## 🚀 Currently Learning
 
-- 🤖 Associate AI Engineer for Data Scientists — DataCamp (40hrs)
 - 🧠 Edge AI & TinyML for embedded inference on ESP32/RPi
 
 ---
@@ -65,5 +60,5 @@ smart living in Nigeria — one automated home at a time.
 
 ## 📫 Reach Me
 
-📩 ebenezerasabre@gmail.com | easabre@umass.edu
+📩 mrceoxyz001@gmail.com
 🏠 HOMEOS — Smart Living, Nigerian Built.
